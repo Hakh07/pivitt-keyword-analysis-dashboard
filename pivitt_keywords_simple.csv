@@ -1,0 +1,360 @@
+keyword,service_category,service_subcategory,intent,location_tag,luxury_tag,b2b_tag,startup_tag,avg_monthly_searches,competition_index,cpc,ctr,clicks,cost,est_clicks_from_volume,est_spend_at_top_bid,opportunity_score_z
+branding agencies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,2400.0,32.0,6.332361111111111,0.045,108.0,683.895,108.0,685.8,4.624883136706295
+creative agency,Brand Management,Creative Fulfillment,High (Commercial),,0.0,0.0,0.0,3600.0,34.0,5.1205,0.045,162.0,829.521,162.0,831.06,7.506165437219995
+rebranding agency,Branding/Rebranding,Rebrand,High (Commercial),,0.0,0.0,0.0,110.0,11.0,7.44,0.045,4.95,36.828,4.95,39.204,0.4569795081615302
+luxury branding agency,Digital Experiences,UX/UI Design,High (Commercial),,1.0,0.0,0.0,170.0,27.0,3.852745098039215,0.045,7.649999999999999,29.4735,7.649999999999999,30.6765,0.6234317753824541
+rebranding companies,Branding/Rebranding,Rebrand,High (Commercial),,0.0,0.0,0.0,170.0,19.0,8.003333333333334,0.045,7.649999999999999,61.2255,7.649999999999999,63.7245,-0.02955716419867072
+design agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,3600.0,24.0,4.022537037037037,0.045,162.0,651.6510000000001,162.0,652.86,8.387624281073853
+brand strategy company,Brand Consulting,Brand Strategy,High (Commercial),,0.0,0.0,0.0,40.0,5.0,5.158333333333334,0.045,1.8,9.285,1.8,11.142,1.26833613622242
+brand design agencies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,480.0,18.0,5.147499999999999,0.045,21.6,111.186,21.6,112.752,1.490207452546053
+digital design agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,320.0,17.0,4.23,0.045,14.4,60.912,14.4,62.208,1.440356081315787
+branding company,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,590.0,28.0,5.21045197740113,0.045,26.55,138.3375,26.55,139.9185,1.133111317962225
+brand identity company,Branding/Rebranding,Identity & Guidelines,High (Commercial),,0.0,0.0,0.0,20.0,22.0,2.339999999999999,0.045,0.8999999999999999,2.105999999999999,0.8999999999999999,3.158999999999999,0.9905687952186231
+graphic design agency,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,1300.0,21.0,4.735589743589744,0.045,58.5,277.032,58.5,278.46,3.251143759468095
+brand creation agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,320.0,11.0,6.393958333333334,0.045,14.4,92.073,14.4,94.032,1.20690337347479
+brand marketing company,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,140.0,4.0,7.333333333333333,0.045,6.3,46.2,6.3,48.51,0.962015957800283
+brand creation company,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,16.0,1.65,0.045,0.45,0.7424999999999999,0.45,2.2275,1.505617981723694
+brand design company,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,170.0,10.0,5.207450980392156,0.045,7.649999999999999,39.837,7.649999999999999,41.46299999999999,1.251960237706681
+ux agency,Digital Experiences,UX/UI Design,High (Commercial),,0.0,0.0,0.0,880.0,13.0,10.71818181818182,0.045,39.6,424.4400000000001,39.6,427.6800000000001,1.168545990952167
+top marketing agencies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,880.0,25.0,4.852954545454545,0.045,39.6,192.177,39.6,193.644,2.050628346781678
+digital branding agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,140.0,6.0,5.666666666666667,0.045,6.3,35.7,6.3,37.485,1.29514066251041
+graphic design companies,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,880.0,35.0,4.059015151515151,0.045,39.6,160.737,39.6,161.964,1.680109991141445
+digital design company,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,70.0,16.0,9.463809523809525,0.045,3.15,29.811,3.15,32.94900000000001,-0.4710852252715056
+design company,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,720.0,27.0,4.042222222222223,0.045,32.4,130.968,32.4,132.192,1.796461976396362
+best branding agencies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,320.0,20.0,7.657083333333333,0.045,14.4,110.262,14.4,112.608,0.3393332280795748
+top branding agencies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,320.0,20.0,7.657083333333333,0.045,14.4,110.262,14.4,112.608,0.3393332280795748
+brand building company,Digital Experiences,UX/UI Design,High (Commercial),,0.0,0.0,0.0,50.0,7.0,7.721999999999999,0.045,2.25,17.3745,2.25,20.0475,0.4812454107904426
+graphic design studio,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,590.0,23.0,3.233050847457627,0.045,26.55,85.8375,26.55,86.8185,1.959609820358031
+brand identity design company,Branding/Rebranding,Identity & Guidelines,High (Commercial),,0.0,0.0,0.0,30.0,13.0,4.23888888888889,0.045,1.35,5.7225,1.35,7.3575,1.02644139117583
+branding and marketing agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,210.0,20.0,7.416825396825398,0.045,9.45,70.089,9.45,72.387,0.1593786344127435
+brand consulting,Other/Generic,General Branding/Marketing,Low (Informational/Generic),,0.0,0.0,0.0,720.0,30.0,5.508518518518517,0.045,32.4,178.476,32.4,180.144,1.224983093720551
+branding identity agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,480.0,2.0,6.409722222222222,0.045,21.6,138.45,21.6,140.4,2.085219181569557
+product design agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,210.0,20.0,8.133333333333335,0.045,9.45,76.86,9.45,79.38,-0.03412655022464661
+marketing and branding companies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,140.0,4.0,7.333333333333333,0.045,6.3,46.2,6.3,48.51,0.962015957800283
+branding service,Other/Generic,General Branding/Marketing,Low (Informational/Generic),,0.0,0.0,0.0,390.0,8.0,5.219230769230768,0.045,17.55,91.5975,17.55,93.1905,1.855446641583348
+graphic design firms,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,90.0,10.0,3.555555555555556,0.045,4.05,14.4,4.05,15.552,1.520017055792366
+branding company services,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,9.0,,0.045,0.45,,0.45,,1.041441562818315
+design firms,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,110.0,14.0,3.081212121212121,0.045,4.95,15.252,4.95,16.236,1.458663924027236
+brand identity design agency,Branding/Rebranding,Identity & Guidelines,High (Commercial),,0.0,0.0,0.0,30.0,13.0,4.23888888888889,0.045,1.35,5.7225,1.35,7.3575,1.02644139117583
+digital product design agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,30.0,30.0,43.3688888888889,0.045,1.35,58.548,1.35,75.276,-10.53567215456827
+best design agencies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,70.0,28.0,3.70047619047619,0.045,3.15,11.6565,3.15,12.8835,0.3834789349439401
+brand consulting firms,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,70.0,6.0,3.646190476190476,0.045,3.15,11.4855,3.15,12.6945,1.684997213873458
+digital brand marketing,Other/Generic,General Branding/Marketing,Low (Informational/Generic),,0.0,0.0,0.0,110.0,6.0,7.355454545454547,0.045,4.95,36.40950000000001,4.95,38.75850000000001,0.7722800624299697
+branding firms,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,2400.0,32.0,6.332361111111111,0.045,108.0,683.895,108.0,685.8,4.624883136706295
+product design studio,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,110.0,41.0,5.833636363636363,0.045,4.95,28.8765,4.95,30.7395,-0.8640002801759443
+brand strategy agencies,Brand Consulting,Brand Strategy,High (Commercial),,0.0,0.0,0.0,210.0,14.0,5.393174603174604,0.045,9.45,50.9655,9.45,52.6365,1.056861169600009
+brand marketing agencies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,210.0,20.0,7.416825396825398,0.045,9.45,70.089,9.45,72.387,0.1593786344127435
+creative content agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,210.0,13.0,3.020952380952381,0.045,9.45,28.548,9.45,29.484,1.756013749400924
+digital branding company,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,40.0,5.0,5.916666666666666,0.045,1.8,10.65,1.8,12.78,1.063535290053805
+creative ad agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,210.0,8.0,4.221587301587301,0.045,9.45,39.894,9.45,41.202,1.724229431164433
+best branding companies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,320.0,20.0,7.657083333333333,0.045,14.4,110.262,14.4,112.608,0.3393332280795748
+branding in marketing,Other/Generic,General Branding/Marketing,Low (Informational/Generic),,0.0,0.0,0.0,1300.0,16.0,6.277641025641026,0.045,58.5,367.242,58.5,369.135,3.127154131718794
+branding and graphic design services,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,10.0,12.0,,0.045,0.45,,0.45,,0.865960995151807
+branding and design agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,480.0,18.0,5.147499999999999,0.045,21.6,111.186,21.6,112.752,1.490207452546053
+branding studios,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,260.0,15.0,4.628205128205129,0.045,11.7,54.15,11.7,55.575,1.316251762676934
+business branding agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,20.0,13.0,4.539999999999999,0.045,0.8999999999999999,4.085999999999999,0.8999999999999999,6.128999999999999,0.9228629884542517
+brand strategy consulting firms,Brand Consulting,Brand Strategy,High (Commercial),,0.0,0.0,0.0,30.0,0.0,,0.045,1.35,,1.35,,1.612399692325627
+creative design agencies,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,260.0,21.0,4.335897435897436,0.045,11.7,50.73,11.7,52.065,1.044233303466394
+brand strategy consulting,Brand Consulting,Brand Strategy,Low (Informational/Generic),,0.0,0.0,0.0,320.0,9.0,4.905625,0.045,14.4,70.64099999999999,14.4,72.14399999999999,1.725840211176067
+creative advertising agency,Brand Management,Ads & Content,High (Commercial),,0.0,0.0,0.0,210.0,8.0,4.221587301587301,0.045,9.45,39.894,9.45,41.202,1.724229431164433
+branding agency services,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,50.0,4.0,4.645333333333333,0.045,2.25,10.452,2.25,12.06,1.487632268626761
+digital creative agencies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,210.0,10.0,5.732063492063491,0.045,9.45,54.16799999999999,9.45,55.944,1.19931253735839
+top digital design agencies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,24.0,,0.045,0.45,,0.45,,0.1640387244857753
+the branding agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,50.0,2.0,,0.045,2.25,,2.25,,1.539929073722409
+creative production agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,90.0,23.0,5.333333333333333,0.045,4.05,21.6,4.05,23.328,0.2794820627616228
+brand consulting agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,70.0,6.0,4.686666666666667,0.045,3.15,14.763,3.15,16.317,1.40399887862798
+service design agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,90.0,21.0,11.12962962962963,0.045,4.05,45.075,4.05,48.681,-1.168919533171978
+agency creative,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,70.0,23.0,4.523809523809524,0.045,3.15,14.25,3.15,15.75,0.4535913433098138
+online branding companies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,20.0,16.0,6.233333333333333,0.045,0.8999999999999999,5.609999999999999,0.8999999999999999,8.415,0.2900688829694726
+company branded products,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,30.0,54.0,3.608888888888889,0.045,1.35,4.872,1.35,6.263999999999999,-1.201650792167391
+brand strategy design,Brand Consulting,Brand Strategy,Low (Informational/Generic),,0.0,0.0,0.0,10.0,10.0,0.8466666666666662,0.045,0.45,0.3809999999999998,0.45,1.143,2.073532980470496
+best advertising company,Brand Management,Ads & Content,High (Commercial),,0.0,0.0,0.0,70.0,29.0,4.740952380952382,0.045,3.15,14.934,3.15,16.506,0.04398707714295869
+corporate branding companies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,20.0,8.0,6.72,0.045,0.8999999999999999,6.047999999999999,0.8999999999999999,9.072,0.626584432465723
+top digital marketing services,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+marketing design agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,170.0,15.0,3.833529411764706,0.045,7.649999999999999,29.3265,7.649999999999999,30.5235,1.330543569752306
+brand marketing services,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,20.0,24.0,5.246666666666667,0.045,0.8999999999999999,4.722,0.8999999999999999,7.082999999999999,0.08858685841956182
+product design services company,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,,,0.045,0.45,,0.45,,0.6687194443917341
+marketing and design agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,170.0,15.0,3.833529411764706,0.045,7.649999999999999,29.3265,7.649999999999999,30.5235,1.330543569752306
+digital product agencies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,110.0,22.0,20.15,0.045,4.95,99.74249999999999,4.95,106.1775,-3.619001444084956
+brand strategy firms,Brand Consulting,Brand Strategy,High (Commercial),,0.0,0.0,0.0,10.0,13.0,,0.045,0.45,,0.45,,0.8074674725963045
+corporate branding agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,50.0,3.0,8.822666666666668,0.045,2.25,19.851,2.25,22.905,0.4179657014305762
+top branding companies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,320.0,20.0,7.657083333333333,0.045,14.4,110.262,14.4,112.608,0.3393332280795748
+business branding company,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,20.0,13.0,4.539999999999999,0.045,0.8999999999999999,4.085999999999999,0.8999999999999999,6.128999999999999,0.9228629884542517
+best creative agency,Brand Management,Creative Fulfillment,High (Commercial),,0.0,0.0,0.0,90.0,16.0,2.666666666666667,0.045,4.05,10.8,4.05,11.664,1.409115520363954
+top creative agency,Brand Management,Creative Fulfillment,High (Commercial),,0.0,0.0,0.0,90.0,20.0,2.842592592592593,0.045,4.05,11.5125,4.05,12.4335,1.12762963432749
+digital design studio,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,50.0,32.0,1.872,0.045,2.25,4.212000000000001,2.25,4.86,0.598799588775052
+best brand design agencies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,14.0,,0.045,0.45,,0.45,,0.7489739500408017
+creative agency services,Brand Management,Creative Fulfillment,High (Commercial),,0.0,0.0,0.0,40.0,12.0,3.208333333333333,0.045,1.8,5.774999999999999,1.8,6.93,1.385512225624627
+advertising brands,Brand Management,Ads & Content,Low (Informational/Generic),,0.0,0.0,0.0,390.0,14.0,8.128632478632479,0.045,17.55,142.6575,17.55,145.1385,0.7187519696394928
+branding and design company,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,170.0,10.0,5.207450980392156,0.045,7.649999999999999,39.837,7.649999999999999,41.46299999999999,1.251960237706681
+best brand strategy agencies,Brand Consulting,Brand Strategy,High (Commercial),,0.0,0.0,0.0,30.0,10.0,2.504444444444444,0.045,1.35,3.380999999999999,1.35,4.347,1.670338253156197
+best design studios,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,20.0,25.0,1.393333333333334,0.045,0.8999999999999999,1.254,0.8999999999999999,1.881,1.070751701450518
+brand design studio,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,90.0,20.0,4.675925925925926,0.045,4.05,18.9375,4.05,20.4525,0.6325067095242441
+best content marketing agencies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,170.0,2.0,,0.045,7.649999999999999,,7.649999999999999,,1.807027632769135
+be creative agency,Brand Management,Creative Fulfillment,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+branding solutions company,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+branded content agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,70.0,16.0,4.18,0.045,3.15,13.167,3.15,14.553,0.9558976250185776
+brand graphic design,Brand Management,Graphic/Visual Design,Low (Informational/Generic),,0.0,0.0,0.0,210.0,23.0,3.311428571428571,0.045,9.45,31.293,9.45,32.319,1.092630476019929
+company branding company,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,29.0,,0.045,0.45,,0.45,,-0.1284288882917379
+best graphic design agencies,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,50.0,21.0,4.81,0.045,2.25,10.8225,2.25,12.4875,0.4487713443008885
+top brand consulting firms,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+marketing and branding services,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,20.0,24.0,5.246666666666667,0.045,0.8999999999999999,4.722,0.8999999999999999,7.082999999999999,0.08858685841956182
+product branding companies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+branding and web design agency,Digital Experiences,Websites,High (Commercial),,0.0,0.0,0.0,20.0,16.0,6.773333333333333,0.045,0.8999999999999999,6.095999999999998,0.8999999999999999,9.143999999999998,0.1442326760274258
+design agency services,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,30.0,16.0,4.697777777777778,0.045,1.35,6.342000000000001,1.35,8.154,0.7270300550585699
+branded content production companies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,30.0,53.0,3.461111111111111,0.045,1.35,4.672499999999999,1.35,6.007499999999999,-1.103247361127748
+brand communications agency,Brand Consulting,Brand Strategy,High (Commercial),,0.0,0.0,0.0,70.0,7.0,3.392857142857143,0.045,3.15,10.6875,3.15,11.8125,1.694920677290768
+brand strategy design agency,Brand Consulting,Brand Strategy,High (Commercial),,0.0,0.0,0.0,20.0,0.0,,0.045,0.8999999999999999,,0.8999999999999999,,1.590141479071733
+top brand design agencies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,36.0,0.8066666666666668,0.045,0.45,0.363,0.45,1.089,0.5635040760231342
+best digital design agencies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,33.0,,0.045,0.45,,0.45,,-0.3624029785137486
+product branding agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,20.0,9.0,,0.045,0.8999999999999999,,0.8999999999999999,,1.063699776072209
+branding and creative agency,Brand Management,Creative Fulfillment,High (Commercial),,0.0,0.0,0.0,320.0,11.0,6.393958333333334,0.045,14.4,92.073,14.4,94.032,1.20690337347479
+famous branding agencies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,8.0,,0.045,0.45,,0.45,,1.099935085373818
+luxury marketing agency,Digital Experiences,UX/UI Design,High (Commercial),,1.0,0.0,0.0,110.0,31.0,2.508181818181818,0.045,4.95,12.4155,4.95,13.2165,0.6190306440221932
+design services company,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,13.0,,0.045,0.45,,0.45,,0.8074674725963045
+creative design company,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,70.0,13.0,5.202380952380953,0.045,3.15,16.3875,3.15,18.1125,0.8552667850090934
+creative companies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,320.0,16.0,7.490625000000001,0.045,14.4,107.865,14.4,110.16,0.618262229314971
+famous graphic design companies,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,20.0,22.0,1.12,0.045,0.8999999999999999,1.008,0.8999999999999999,1.512,1.320050596087692
+best design companies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,20.0,37.0,2.013333333333333,0.045,0.8999999999999999,1.812,0.8999999999999999,2.718,0.2013878598510251
+design studio agency,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,30.0,32.0,3.212222222222222,0.045,1.35,4.336499999999999,1.35,5.575499999999999,0.1923333005110974
+creative agency brand identity,Branding/Rebranding,Identity & Guidelines,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+brand consulting services,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,30.0,9.0,3.484444444444445,0.045,1.35,4.704,1.35,6.048,1.464166066816873
+top brand strategy agencies,Brand Consulting,Brand Strategy,High (Commercial),,0.0,0.0,0.0,10.0,10.0,,0.045,0.45,,0.45,,0.9829480402628124
+best marketing firm,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,390.0,26.0,6.349572649572649,0.045,17.55,111.435,17.55,113.373,0.4972951385902242
+brand content marketing,Other/Generic,General Branding/Marketing,Low (Informational/Generic),,0.0,0.0,0.0,140.0,2.0,,0.045,6.3,,6.3,,1.740252993007454
+brand advertising companies,Brand Management,Ads & Content,High (Commercial),,0.0,0.0,0.0,70.0,2.0,,0.045,3.15,,3.15,,1.584445500230197
+brand communication company,Brand Consulting,Brand Strategy,High (Commercial),,0.0,0.0,0.0,10.0,100.0,,0.045,0.45,,0.45,,-4.281468989732426
+creative communications agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,70.0,20.0,2.75952380952381,0.045,3.15,8.6925,3.15,9.6075,1.105547349001264
+brand consulting companies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,70.0,6.0,3.646190476190476,0.045,3.15,11.4855,3.15,12.6945,1.684997213873458
+graphic design company branding,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,10.0,,,0.045,0.45,,0.45,,0.6687194443917341
+creative services agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,20.0,13.0,6.140000000000001,0.045,0.8999999999999999,5.526,0.8999999999999999,8.289,0.4907557086259638
+brand strategy in marketing,Brand Consulting,Brand Strategy,Low (Informational/Generic),,0.0,0.0,0.0,390.0,6.0,6.811538461538461,0.045,17.55,119.5425,17.55,121.6215,1.542403845711394
+top brand marketing agencies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+brand strategy and design agency,Brand Consulting,Brand Strategy,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+branding vendors,Other/Generic,General Branding/Marketing,Low (Informational/Generic),,0.0,0.0,0.0,10.0,17.0,,0.045,0.45,,0.45,,0.5734933823742938
+best brand identity agencies,Branding/Rebranding,Identity & Guidelines,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+brand design consultancy,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,70.0,2.0,,0.045,3.15,,3.15,,1.584445500230197
+brand and communications,Other/Generic,General Branding/Marketing,Low (Informational/Generic),,0.0,0.0,0.0,390.0,2.0,6.782051282051283,0.045,17.55,119.025,17.55,121.095,1.784341451507163
+product branding services,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+brand design identity,Other/Generic,General Branding/Marketing,Low (Informational/Generic),,0.0,0.0,0.0,10.0,3.0,,0.045,0.45,,0.45,,1.392402698151331
+top graphic design agencies,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,70.0,35.0,2.135238095238095,0.045,3.15,6.725999999999999,3.15,7.433999999999999,0.3967435118160112
+a branding company,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,9.0,,0.045,0.45,,0.45,,1.041441562818315
+brand design firms,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,170.0,10.0,5.207450980392156,0.045,7.649999999999999,39.837,7.649999999999999,41.46299999999999,1.251960237706681
+top branding firms,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,320.0,20.0,7.657083333333333,0.045,14.4,110.262,14.4,112.608,0.3393332280795748
+marketing design companies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,20.0,27.0,2.753333333333333,0.045,0.8999999999999999,2.478,0.8999999999999999,3.717,0.5864734684854687
+top creative design agencies,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+brand advertising agency,Brand Management,Ads & Content,High (Commercial),,0.0,0.0,0.0,70.0,2.0,,0.045,3.15,,3.15,,1.584445500230197
+brand identity creative agency,Branding/Rebranding,Identity & Guidelines,High (Commercial),,0.0,0.0,0.0,10.0,50.0,,0.045,0.45,,0.45,,-1.356792861957294
+rebranding a business,Branding/Rebranding,Rebrand,Low (Informational/Generic),,0.0,0.0,0.0,70.0,35.0,4.759047619047619,0.045,3.15,14.991,3.15,16.569,-0.3118609857595438
+creative firm,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,9.0,,0.045,0.45,,0.45,,1.041441562818315
+biggest design agencies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,20.0,31.0,3.353333333333333,0.045,0.8999999999999999,3.018,0.8999999999999999,4.527,0.1904591483278502
+branding and advertising agency,Brand Management,Ads & Content,High (Commercial),,0.0,0.0,0.0,70.0,2.0,,0.045,3.15,,3.15,,1.584445500230197
+branding digital marketing agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,20.0,0.0,,0.045,0.8999999999999999,,0.8999999999999999,,1.590141479071733
+graphic companies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,110.0,21.0,3.588484848484848,0.045,4.95,17.763,4.95,18.909,0.9122116171931582
+digital product design company,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,12.0,,0.045,0.45,,0.45,,0.865960995151807
+best branding studios,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+communication design agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+branded content companies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,30.0,20.0,6.292222222222222,0.045,1.35,8.494499999999999,1.35,10.9215,0.06244905750767582
+corporate design agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,16.0,,0.045,0.45,,0.45,,0.6319869049297965
+creative production companies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,70.0,17.0,3.058095238095238,0.045,3.15,9.633000000000001,3.15,10.647,1.200393611771243
+marketing and design companies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,20.0,27.0,2.753333333333333,0.045,0.8999999999999999,2.478,0.8999999999999999,3.717,0.5864734684854687
+brand identity marketing,Branding/Rebranding,Identity & Guidelines,Low (Informational/Generic),,0.0,0.0,0.0,10.0,21.0,1.57,0.045,0.45,0.7064999999999999,0.45,2.1195,1.234755732937595
+service design company,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,57.0,1.54,0.045,0.45,0.6929999999999998,0.45,2.079,-0.8629090675637201
+identity in design,Other/Generic,General Branding/Marketing,Low (Informational/Generic),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+artist branding agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,49.0,0.74,0.045,0.45,0.333,0.45,0.999,-0.1789072472055551
+famous design agencies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,34.0,1.523333333333333,0.045,0.45,0.6854999999999998,0.45,2.0565,0.4869430687110525
+famous design companies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,40.0,16.0,1.858333333333333,0.045,1.8,3.344999999999999,1.8,4.013999999999999,1.516128652757734
+digital product design studio,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,10.0,9.0,,0.045,0.45,,0.45,,1.041441562818315
+brand content production,Other/Generic,General Branding/Marketing,Low (Informational/Generic),,0.0,0.0,0.0,40.0,3.0,,0.045,1.8,,1.8,,1.459177337913013
+best graphic design firms,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,10.0,25.0,1.196666666666666,0.045,0.45,0.5384999999999998,0.45,1.6155,1.101606674675518
+corporate identity design company,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+digital marketing and branding company,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,40.0,0.0,,0.045,1.8,,1.8,,1.634657905579521
+digital marketing branding services,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,,,0.045,0.45,,0.45,,0.6687194443917341
+digital design firms,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,10.0,,0.045,0.45,,0.45,,0.9829480402628124
+content design agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,20.0,24.0,1.426666666666667,0.045,0.8999999999999999,1.284,0.8999999999999999,1.926,1.120242989009598
+branding by design,Other/Generic,General Branding/Marketing,Low (Informational/Generic),,0.0,0.0,0.0,20.0,0.0,,0.045,0.8999999999999999,,0.8999999999999999,,1.590141479071733
+brand & design,Other/Generic,General Branding/Marketing,Low (Informational/Generic),,0.0,0.0,0.0,1900.0,39.0,4.195228070175439,0.045,85.5,358.692,85.5,359.955,3.679687031716751
+brand identity content,Branding/Rebranding,Identity & Guidelines,Low (Informational/Generic),,0.0,0.0,0.0,10.0,,,0.045,0.45,,0.45,,0.6687194443917341
+production design companies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,260.0,36.0,7.999487179487181,0.045,11.7,93.59400000000001,11.7,96.057,-0.8225844089345073
+we brand agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+creative and digital agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,30.0,9.0,,0.045,1.35,,1.35,,1.085957989326103
+corporate identity agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,9.0,,0.045,0.45,,0.45,,1.041441562818315
+production company branding,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+marketing agency for luxury brands,Digital Experiences,UX/UI Design,High (Commercial),,1.0,0.0,0.0,30.0,13.0,3.025555555555556,0.045,1.35,4.0845,1.35,5.2515,1.354122745045614
+digital marketing agency branding,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,40.0,0.0,,0.045,1.8,,1.8,,1.634657905579521
+world's best branding agencies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,30.0,40.0,4.23888888888889,0.045,1.35,5.7225,1.35,7.3575,-0.5528837178227417
+leading graphic design companies,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,70.0,35.0,2.135238095238095,0.045,3.15,6.725999999999999,3.15,7.433999999999999,0.3967435118160112
+branding and digital agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,20.0,0.0,,0.045,0.8999999999999999,,0.8999999999999999,,1.590141479071733
+creative design firm,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+creative and design agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,260.0,21.0,4.335897435897436,0.045,11.7,50.73,11.7,52.065,1.044233303466394
+branding and digital marketing agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,20.0,0.0,,0.045,0.8999999999999999,,0.8999999999999999,,1.590141479071733
+biggest graphic design companies,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,70.0,35.0,2.135238095238095,0.045,3.15,6.725999999999999,3.15,7.433999999999999,0.3967435118160112
+graphic design agency services,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+creative strategy in advertising,Brand Management,Ads & Content,Low (Informational/Generic),,0.0,0.0,0.0,40.0,7.0,10.54166666666667,0.045,1.8,18.975,1.8,22.77,-0.3025118608108446
+brand identity firm,Branding/Rebranding,Identity & Guidelines,High (Commercial),,0.0,0.0,0.0,20.0,22.0,2.339999999999999,0.045,0.8999999999999999,2.105999999999999,0.8999999999999999,3.158999999999999,0.9905687952186231
+creative media company,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,20.0,42.0,2.32,0.045,0.8999999999999999,2.088,0.8999999999999999,3.132,-0.1739003148935765
+digital creative studio,Brand Management,Creative Fulfillment,High (Commercial),,0.0,0.0,0.0,20.0,22.0,1.36,0.045,0.8999999999999999,1.224,0.8999999999999999,1.836,1.255234504113449
+brand marketing firms,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,140.0,4.0,7.333333333333333,0.045,6.3,46.2,6.3,48.51,0.962015957800283
+creative branding design,Other/Generic,General Branding/Marketing,Low (Informational/Generic),,0.0,0.0,0.0,210.0,19.0,2.662698412698413,0.045,9.45,25.1625,9.45,25.9875,1.501805206386603
+the best creative agencies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,,,0.045,0.45,,0.45,,0.6687194443917341
+that branding company,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,2.0,,0.045,0.45,,0.45,,1.450896220706834
+companies branding,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,590.0,14.0,6.40677966101695,0.045,26.55,170.1,26.55,172.044,1.628931945520194
+marketing agency creative,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,100.0,,0.045,0.45,,0.45,,-4.281468989732426
+be brand agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+best creative design agencies,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,10.0,36.0,,0.045,0.45,,0.45,,-0.5378835461802565
+leading branding agencies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,320.0,20.0,7.657083333333333,0.045,14.4,110.262,14.4,112.608,0.3393332280795748
+identity branding agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,480.0,2.0,6.409722222222222,0.045,21.6,138.45,21.6,140.4,2.085219181569557
+the branding firm,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+designers company,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,90.0,12.0,2.509259259259259,0.045,4.05,10.1625,4.05,10.9755,1.685600164735738
+company branding agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+branding and design studio,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,90.0,20.0,4.675925925925926,0.045,4.05,18.9375,4.05,20.4525,0.6325067095242441
+brand strategy design consultancy,Brand Consulting,Brand Strategy,High (Commercial),,0.0,0.0,0.0,10.0,7.0,,0.045,0.45,,0.45,,1.15842860792932
+agency for creatives,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+business design agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+creative digital design,Other/Generic,General Branding/Marketing,Low (Informational/Generic),,0.0,0.0,0.0,50.0,4.0,,0.045,2.25,,2.25,,1.422942028611404
+creative graphic design agency,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,20.0,6.0,,0.045,0.8999999999999999,,0.8999999999999999,,1.239180343738717
+brands communication,Other/Generic,General Branding/Marketing,Low (Informational/Generic),,0.0,0.0,0.0,390.0,2.0,6.782051282051283,0.045,17.55,119.025,17.55,121.095,1.784341451507163
+digital agency design,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+design strategy agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,20.0,13.0,0.6666666666666666,0.045,0.8999999999999999,0.5999999999999999,0.8999999999999999,0.8999999999999999,1.968922695038564
+branding in web design,Digital Experiences,Websites,Low (Informational/Generic),,0.0,0.0,0.0,170.0,32.0,8.147450980392158,0.045,7.649999999999999,62.328,7.649999999999999,64.872,-0.8288943851988562
+design agency company,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,21.0,,0.045,0.45,,0.45,,0.3395192921522832
+creative studio agency,Brand Management,Creative Fulfillment,High (Commercial),,0.0,0.0,0.0,10.0,93.0,1.179999999999999,0.045,0.45,0.5309999999999997,0.45,1.593,-2.87145174160045
+creative media agencies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,90.0,17.0,3.314814814814815,0.045,4.05,13.425,4.05,14.499,1.175578539544677
+creative agency partners,Brand Management,Creative Fulfillment,High (Commercial),,0.0,0.0,0.0,10.0,57.0,,0.045,0.45,,0.45,,-1.766247519845812
+luxury creative agency,Digital Experiences,UX/UI Design,High (Commercial),,1.0,0.0,0.0,20.0,14.0,3.866666666666667,0.045,0.8999999999999999,3.48,0.8999999999999999,5.22,1.046214612826486
+best branding firms,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,20.0,16.0,2.753333333333333,0.045,0.8999999999999999,2.478,0.8999999999999999,3.717,1.229902216595998
+design branding company,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,170.0,10.0,5.207450980392156,0.045,7.649999999999999,39.837,7.649999999999999,41.46299999999999,1.251960237706681
+marketing agency luxury brands,Digital Experiences,UX/UI Design,High (Commercial),,1.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+best brand strategy consulting firms,Brand Consulting,Brand Strategy,High (Commercial),,0.0,0.0,0.0,0.0,,,0.045,0.0,,0.0,,0.6464612311378403
+agency brands,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,2400.0,32.0,6.332361111111111,0.045,108.0,683.895,108.0,685.8,4.624883136706295
+luxury design agency,Digital Experiences,UX/UI Design,High (Commercial),,1.0,0.0,0.0,20.0,38.0,1.706666666666667,0.045,0.8999999999999999,1.536,0.8999999999999999,2.304,0.225714899262611
+digital marketing and branding agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,40.0,0.0,,0.045,1.8,,1.8,,1.634657905579521
+largest branding agencies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,320.0,20.0,7.657083333333333,0.045,14.4,110.262,14.4,112.608,0.3393332280795748
+world's best advertising agency,Brand Management,Ads & Content,High (Commercial),,0.0,0.0,0.0,10.0,33.0,,0.045,0.45,,0.45,,-0.3624029785137486
+creative agency strategy,Brand Management,Creative Fulfillment,High (Commercial),,0.0,0.0,0.0,10.0,,,0.045,0.45,,0.45,,0.6687194443917341
+luxury brand design agency,Digital Experiences,UX/UI Design,High (Commercial),,1.0,0.0,0.0,20.0,6.0,,0.045,0.8999999999999999,,0.8999999999999999,,1.239180343738717
+world's best design agencies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,50.0,37.0,2.088666666666667,0.045,2.25,4.6995,2.25,5.4225,0.2478174485207914
+identity design agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,30.0,6.0,3.173333333333333,0.045,1.35,4.283999999999999,1.35,5.507999999999999,1.723667494449993
+creative brand communication,Brand Consulting,Brand Strategy,Low (Informational/Generic),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+biggest design companies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,20.0,15.0,3.373333333333333,0.045,0.8999999999999999,3.036,0.8999999999999999,4.553999999999999,1.120954168218039
+creative digital campaigns,Brand Consulting,Campaign Strategy,Low (Informational/Generic),,0.0,0.0,0.0,10.0,29.0,,0.045,0.45,,0.45,,-0.1284288882917379
+top brand identity agencies,Branding/Rebranding,Identity & Guidelines,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+creative branding company,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,20.0,3.0,,0.045,0.8999999999999999,,0.8999999999999999,,1.414660911405225
+top brand marketing companies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+branding and advertising company,Brand Management,Ads & Content,High (Commercial),,0.0,0.0,0.0,70.0,2.0,,0.045,3.15,,3.15,,1.584445500230197
+digital and creative agency,Brand Management,Creative Fulfillment,High (Commercial),,0.0,0.0,0.0,210.0,10.0,5.732063492063491,0.045,9.45,54.16799999999999,9.45,55.944,1.19931253735839
+best brand marketing companies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+agency graphic designer,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,10.0,43.0,,0.045,0.45,,0.45,,-0.947338204068775
+company creative,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,9.0,,0.045,0.45,,0.45,,1.041441562818315
+digital marketing and branding services,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+brand marketing consultants,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,50.0,27.0,6.231333333333335,0.045,2.25,14.0205,2.25,16.1775,-0.28604509127959
+ad agency branding,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,30.0,1.0,,0.045,1.35,,1.35,,1.553906169770124
+top brand consultancies,Other/Generic,General Branding/Marketing,Medium (Research/Comparison),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+brands and agencies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,20.0,0.0,,0.045,0.8999999999999999,,0.8999999999999999,,1.590141479071733
+best brand strategy companies,Brand Consulting,Brand Strategy,High (Commercial),,0.0,0.0,0.0,30.0,10.0,2.504444444444444,0.045,1.35,3.380999999999999,1.35,4.347,1.670338253156197
+a creative agency,Brand Management,Creative Fulfillment,High (Commercial),,0.0,0.0,0.0,3600.0,34.0,5.1205,0.045,162.0,829.521,162.0,831.06,7.506165437219995
+advertising branding agency,Brand Management,Ads & Content,High (Commercial),,0.0,0.0,0.0,30.0,1.0,,0.045,1.35,,1.35,,1.553906169770124
+agency brand identity,Branding/Rebranding,Identity & Guidelines,High (Commercial),,0.0,0.0,0.0,480.0,2.0,6.409722222222222,0.045,21.6,138.45,21.6,140.4,2.085219181569557
+agent branding,Other/Generic,General Branding/Marketing,Low (Informational/Generic),,0.0,0.0,0.0,2400.0,32.0,6.332361111111111,0.045,108.0,683.895,108.0,685.8,4.624883136706295
+best brand advertising,Brand Management,Ads & Content,Medium (Research/Comparison),,0.0,0.0,0.0,20.0,7.0,,0.045,0.8999999999999999,,0.8999999999999999,,1.180686821183214
+best brand consulting firms,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,,,0.045,0.45,,0.45,,0.6687194443917341
+best brand identity companies,Branding/Rebranding,Identity & Guidelines,High (Commercial),,0.0,0.0,0.0,10.0,,,0.045,0.45,,0.45,,0.6687194443917341
+best brand strategy firms,Brand Consulting,Brand Strategy,High (Commercial),,0.0,0.0,0.0,30.0,10.0,2.504444444444444,0.045,1.35,3.380999999999999,1.35,4.347,1.670338253156197
+best branding and design agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,14.0,,0.045,0.45,,0.45,,0.7489739500408017
+best branding services,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,21.0,,0.045,0.45,,0.45,,0.3395192921522832
+best creative advertising agencies,Brand Management,Ads & Content,High (Commercial),,0.0,0.0,0.0,90.0,16.0,2.666666666666667,0.045,4.05,10.8,4.05,11.664,1.409115520363954
+best graphic designing company,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,50.0,21.0,4.81,0.045,2.25,10.8225,2.25,12.4875,0.4487713443008885
+brand and branding in marketing,Other/Generic,General Branding/Marketing,Low (Informational/Generic),,0.0,0.0,0.0,10.0,6.0,,0.045,0.45,,0.45,,1.216922130484823
+brand and strategy consulting,Brand Consulting,Brand Strategy,Low (Informational/Generic),,0.0,0.0,0.0,320.0,9.0,4.905625,0.045,14.4,70.64099999999999,14.4,72.14399999999999,1.725840211176067
+brand consulting design,Other/Generic,General Branding/Marketing,Low (Informational/Generic),,0.0,0.0,0.0,20.0,0.0,,0.045,0.8999999999999999,,0.8999999999999999,,1.590141479071733
+brand strategy and design consultancy,Brand Consulting,Brand Strategy,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+brand strategy consulting agency,Brand Consulting,Brand Strategy,High (Commercial),,0.0,0.0,0.0,70.0,6.0,4.686666666666667,0.045,3.15,14.763,3.15,16.317,1.40399887862798
+branded content marketing agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+branded the agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,,,0.045,0.45,,0.45,,0.6687194443917341
+branding and communication agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,70.0,7.0,3.392857142857143,0.045,3.15,10.6875,3.15,11.8125,1.694920677290768
+branding and identity agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,480.0,2.0,6.409722222222222,0.045,21.6,138.45,21.6,140.4,2.085219181569557
+branding and strategy agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+branding in service marketing,Other/Generic,General Branding/Marketing,Low (Informational/Generic),,0.0,0.0,0.0,20.0,24.0,5.246666666666667,0.045,0.8999999999999999,4.722,0.8999999999999999,7.082999999999999,0.08858685841956182
+creative agency communications,Brand Management,Creative Fulfillment,High (Commercial),,0.0,0.0,0.0,10.0,,,0.045,0.45,,0.45,,0.6687194443917341
+creative brand design agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,13.0,3.276666666666667,0.045,0.45,1.4745,0.45,4.4235,1.241789481564776
+creative brand marketing,Other/Generic,General Branding/Marketing,Low (Informational/Generic),,0.0,0.0,0.0,20.0,7.0,,0.045,0.8999999999999999,,0.8999999999999999,,1.180686821183214
+creative brand strategy agency,Brand Consulting,Brand Strategy,High (Commercial),,0.0,0.0,0.0,20.0,0.0,,0.045,0.8999999999999999,,0.8999999999999999,,1.590141479071733
+creative branding services,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+creative design advertising,Brand Management,Graphic/Visual Design,Low (Informational/Generic),,0.0,0.0,0.0,40.0,14.0,6.025,0.045,1.8,10.845,1.8,13.014,0.5078363233159071
+creative digital advertising,Brand Management,Ads & Content,Low (Informational/Generic),,0.0,0.0,0.0,10.0,29.0,2.866666666666667,0.045,0.45,1.29,0.45,3.87,0.4166206111327325
+creative graphic agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+creative strategy digital,Other/Generic,General Branding/Marketing,Low (Informational/Generic),,0.0,0.0,0.0,10.0,,,0.045,0.45,,0.45,,0.6687194443917341
+creatives advertising,Brand Management,Ads & Content,Low (Informational/Generic),,0.0,0.0,0.0,590.0,10.0,8.225988700564972,0.045,26.55,218.4,26.55,220.896,1.371597617293375
+design graphic agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,1300.0,21.0,4.735589743589744,0.045,58.5,277.032,58.5,278.46,3.251143759468095
+digital agency creative,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,43.0,,0.045,0.45,,0.45,,-0.947338204068775
+digital brand marketing agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,48.0,,0.045,0.45,,0.45,,-1.239805816846288
+digital branding consultants,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+digital branding firm,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,40.0,5.0,5.916666666666666,0.045,1.8,10.65,1.8,12.78,1.063535290053805
+digital creative strategy,Other/Generic,General Branding/Marketing,Low (Informational/Generic),,0.0,0.0,0.0,10.0,19.0,,0.045,0.45,,0.45,,0.4565063372632885
+graphic design creative agency,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,20.0,6.0,,0.045,0.8999999999999999,,0.8999999999999999,,1.239180343738717
+graphic design in branding,Brand Management,Graphic/Visual Design,Low (Informational/Generic),,0.0,0.0,0.0,10.0,7.0,,0.045,0.45,,0.45,,1.15842860792932
+marketing and branding firm,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,140.0,4.0,7.333333333333333,0.045,6.3,46.2,6.3,48.51,0.962015957800283
+marketing branding advertising,Brand Management,Ads & Content,Low (Informational/Generic),,0.0,0.0,0.0,10.0,57.0,,0.045,0.45,,0.45,,-1.766247519845812
+most creative advertising agencies,Brand Management,Ads & Content,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+product branding in marketing,Other/Generic,General Branding/Marketing,Low (Informational/Generic),,0.0,0.0,0.0,10.0,7.0,,0.045,0.45,,0.45,,1.15842860792932
+service branding in marketing,Other/Generic,General Branding/Marketing,Low (Informational/Generic),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+strategic branding studios,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+the agency brand consultancy,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+top 10 branding agencies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+top 10 branding companies,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,89.0,1.623333333333333,0.045,0.45,0.7304999999999999,0.45,2.1915,-2.757207376830862
+top brand strategy consulting firms,Brand Consulting,Brand Strategy,High (Commercial),,0.0,0.0,0.0,10.0,21.0,,0.045,0.45,,0.45,,0.3395192921522832
+top brand strategy firms,Brand Consulting,Brand Strategy,High (Commercial),,0.0,0.0,0.0,10.0,17.0,,0.045,0.45,,0.45,,0.5734933823742938
+top creative advertising agencies,Brand Management,Ads & Content,High (Commercial),,0.0,0.0,0.0,90.0,20.0,2.842592592592593,0.045,4.05,11.5125,4.05,12.4335,1.12762963432749
+top ten marketing company,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,390.0,26.0,6.349572649572649,0.045,17.55,111.435,17.55,113.373,0.4972951385902242
+we creative agency,Brand Management,Creative Fulfillment,High (Commercial),,0.0,0.0,0.0,10.0,,,0.045,0.45,,0.45,,0.6687194443917341
+luxury branding company,Digital Experiences,UX/UI Design,High (Commercial),,1.0,0.0,0.0,20.0,5.0,,0.045,0.8999999999999999,,0.8999999999999999,,1.29767386629422
+design studio company,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,10.0,100.0,,0.045,0.45,,0.45,,-4.281468989732426
+creative studio services,Brand Management,Creative Fulfillment,High (Commercial),,0.0,0.0,0.0,10.0,100.0,,0.045,0.45,,0.45,,-4.281468989732426
+agency designer,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,3.0,,0.045,0.45,,0.45,,1.392402698151331
+biggest design firms,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,29.0,,0.045,0.45,,0.45,,-0.1284288882917379
+corporate design company,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+creativity in graphic design,Brand Management,Graphic/Visual Design,Low (Informational/Generic),,0.0,0.0,0.0,110.0,6.0,1.747272727272727,0.045,4.95,8.649000000000001,4.95,9.207,2.286865181328098
+design in marketing,Other/Generic,General Branding/Marketing,Low (Informational/Generic),,0.0,0.0,0.0,170.0,15.0,3.045686274509804,0.045,7.649999999999999,23.2995,7.649999999999999,24.2505,1.543314041608931
+design marketing studio,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,,,0.045,0.45,,0.45,,0.6687194443917341
+digital creative designer,Brand Management,Graphic/Visual Design,Low (Informational/Generic),,0.0,0.0,0.0,10.0,43.0,,0.045,0.45,,0.45,,-0.947338204068775
+famous design firms,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,34.0,1.523333333333333,0.045,0.45,0.6854999999999998,0.45,2.0565,0.4869430687110525
+graphic design in digital marketing,Brand Management,Graphic/Visual Design,Low (Informational/Generic),,0.0,0.0,0.0,20.0,54.0,2.413333333333333,0.045,0.8999999999999999,2.172,0.8999999999999999,3.258,-0.9010288435495917
+graphic design in marketing,Brand Management,Graphic/Visual Design,Low (Informational/Generic),,0.0,0.0,0.0,110.0,15.0,3.522727272727272,0.045,4.95,17.4375,4.95,18.5625,1.280931707019117
+graphic design services company,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+internet marketing design,Other/Generic,General Branding/Marketing,Low (Informational/Generic),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+marketing in design,Other/Generic,General Branding/Marketing,Low (Informational/Generic),,0.0,0.0,0.0,170.0,15.0,3.045686274509804,0.045,7.649999999999999,23.2995,7.649999999999999,24.2505,1.543314041608931
+companies that need rebranding,Branding/Rebranding,Rebrand,High (Commercial),,0.0,0.0,0.0,20.0,1.0,,0.045,0.8999999999999999,,0.8999999999999999,,1.53164795651623
+media design agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,20.0,25.0,3.306666666666667,0.045,0.8999999999999999,2.976,0.8999999999999999,4.464,0.554023412655858
+luxury brand advertising agency,Digital Experiences,UX/UI Design,High (Commercial),,1.0,0.0,0.0,30.0,13.0,3.025555555555556,0.045,1.35,4.0845,1.35,5.2515,1.354122745045614
+brands that need rebranding,Branding/Rebranding,Rebrand,Low (Informational/Generic),,0.0,0.0,0.0,50.0,3.0,,0.045,2.25,,2.25,,1.481435551166906
+as creative agency,Brand Management,Creative Fulfillment,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+creative content media,Other/Generic,General Branding/Marketing,Low (Informational/Generic),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+creative graphic design company,Brand Management,Graphic/Visual Design,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+media creative agency,Brand Management,Creative Fulfillment,High (Commercial),,0.0,0.0,0.0,30.0,8.0,2.955555555555555,0.045,1.35,3.989999999999999,1.35,5.129999999999999,1.665495051315615
+luxury brand creative agency,Digital Experiences,UX/UI Design,High (Commercial),,1.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+rebranding firm,Branding/Rebranding,Rebrand,High (Commercial),,0.0,0.0,0.0,10.0,,,0.045,0.45,,0.45,,0.6687194443917341
+high end branding agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,10.0,,0.045,0.45,,0.45,,0.9829480402628124
+agency rebrand,Branding/Rebranding,Rebrand,High (Commercial),,0.0,0.0,0.0,10.0,18.0,,0.045,0.45,,0.45,,0.5149998598187912
+brand rebrand,Branding/Rebranding,Rebrand,Low (Informational/Generic),,0.0,0.0,0.0,20.0,0.0,,0.045,0.8999999999999999,,0.8999999999999999,,1.590141479071733
+brand that needs rebranding,Branding/Rebranding,Rebrand,Low (Informational/Generic),,0.0,0.0,0.0,10.0,,,0.045,0.45,,0.45,,0.6687194443917341
+branding agency luxury,Digital Experiences,UX/UI Design,High (Commercial),,1.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+brands that need a rebrand,Branding/Rebranding,Rebrand,Low (Informational/Generic),,0.0,0.0,0.0,50.0,3.0,,0.045,2.25,,2.25,,1.481435551166906
+brands that need to be rebranded,Branding/Rebranding,Rebrand,Low (Informational/Generic),,0.0,0.0,0.0,50.0,3.0,,0.045,2.25,,2.25,,1.481435551166906
+businesses that need rebranding,Branding/Rebranding,Rebrand,Low (Informational/Generic),,0.0,0.0,0.0,10.0,,,0.045,0.45,,0.45,,0.6687194443917341
+companies that had to rebrand,Branding/Rebranding,Rebrand,High (Commercial),,0.0,0.0,0.0,10.0,,,0.045,0.45,,0.45,,0.6687194443917341
+companies that have rebranded themselves,Branding/Rebranding,Rebrand,High (Commercial),,0.0,0.0,0.0,10.0,,,0.045,0.45,,0.45,,0.6687194443917341
+companies that need to rebrand,Branding/Rebranding,Rebrand,High (Commercial),,0.0,0.0,0.0,20.0,1.0,,0.045,0.8999999999999999,,0.8999999999999999,,1.53164795651623
+companies that rebranded themselves,Branding/Rebranding,Rebrand,High (Commercial),,0.0,0.0,0.0,10.0,,,0.045,0.45,,0.45,,0.6687194443917341
+companies who rebranded,Branding/Rebranding,Rebrand,High (Commercial),,0.0,0.0,0.0,10.0,,,0.045,0.45,,0.45,,0.6687194443917341
+creative agency for luxury brands,Digital Experiences,UX/UI Design,High (Commercial),,1.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+luxury brand ad agencies,Digital Experiences,UX/UI Design,High (Commercial),,1.0,0.0,0.0,30.0,13.0,3.025555555555556,0.045,1.35,4.0845,1.35,5.2515,1.354122745045614
+luxury brand identity agency,Digital Experiences,UX/UI Design,High (Commercial),,1.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+luxury brand marketing firm,Digital Experiences,UX/UI Design,High (Commercial),,1.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+luxury brand media agency,Digital Experiences,UX/UI Design,High (Commercial),,1.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+luxury branding firm,Digital Experiences,UX/UI Design,High (Commercial),,1.0,0.0,0.0,170.0,27.0,3.852745098039215,0.045,7.649999999999999,29.4735,7.649999999999999,30.6765,0.6234317753824541
+premium brand agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+rebranding a brand,Branding/Rebranding,Rebrand,Low (Informational/Generic),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+recent company rebrands,Branding/Rebranding,Rebrand,High (Commercial),,0.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+the luxury brand agency,Digital Experiences,UX/UI Design,High (Commercial),,1.0,0.0,0.0,10.0,0.0,,0.045,0.45,,0.45,,1.567883265817839
+brand elevation agency,Other/Generic,General Branding/Marketing,High (Commercial),,0.0,0.0,0.0,,,,0.045,,,,,0.9986023752778752
+,,,,,,,,,,,,,,,,0.0
